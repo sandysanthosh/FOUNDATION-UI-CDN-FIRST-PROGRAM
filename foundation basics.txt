@@ -115,3 +115,121 @@ FIRST PROGRAM:
   </body>
 </html>
 
+form
+
+checkbox:
+<div class="ui checkbox">
+  <input type="checkbox" name="example">
+  <label>Make my profile visible</label>
+</div>
+
+radio:
+<div class="ui radio">
+  <input type="radio" name="example">
+
+slider:
+<div class="ui slider checkbox">
+  <input type="checkbox" name="example">
+
+toggle:
+<div class="ui slider checkbox">
+<div class="ui toggle checkbox">
+
+
+
+dropdown:
+
+
+
+about us:
+
+<div class="ui celled horizontal list">
+  <div class="item">About Us</div>
+  <div class="item">Contact</div>
+  <div class="item">Support</div>
+</div>
+
+size:
+
+mini
+tiny
+small
+large
+big
+huge
+massive
+
+floated:
+
+https://semantic-ui.com/elements/list.html
+
+add friend list
+
+
+dropdown:
+
+currently loading  data
+
+<div class="ui loading dropdown">
+  Dropdown <i class="dropdown icon"></i>
+  <div class="menu">
+    <div class="item">Choice 1</div>
+    <div class="item">Choice 2</div>
+    <div class="item">Choice 3</div>
+  </div>
+</div>
+
+diable:
+
+
+menu diretion:
+
+embed:
+
+youtube video:
+
+<div class="ui embed" data-source="youtube" data-id="O6Xo21L0ybE" data-placeholder="/images/image-16by9.png">
+</div>
+
+
+modals:
+
+
+behaviour:
+
+show
+hide
+toggle
+refresh
+show dimmer
+hide dimmer
+hide others
+hideall
+cache sizes
+can fit
+is active
+set active
+
+
+callbacks:
+
+onShow
+onVisible
+onHide
+onHidden
+onApprove
+onDeny
+
+MOdal settings:
+
+detachable
+autofocus
+observeChanges
+allowMultiple
+offset
+context
+closable
+dimmerSettings
+transition
+duration
+queue
